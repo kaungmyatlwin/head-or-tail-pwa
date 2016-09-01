@@ -11,7 +11,6 @@ var filesToCache = [
     '/?homescreen=1',
     '/styles/main.css',
     '/scripts/sw/runtime-caching.js',
-    '/scripts/app.js',
     '/scripts/main.js'
 ];
 
